@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "aWLUO2qCp1s7LGPGeTvQQq7dDdnXFWoLdqU1GjQTDIp+bSrryQ5iaPbu8Oi0WecfGcGewBGh1KMj72ARwZxVwA==",
+  "success": true,
+  "projectFilePath": "/Users/tranthanhhung/Desktop/hoctap/dz/dz2/dz2/dz2.csproj",
+  "expectedPackageFiles": [
+    "/Users/tranthanhhung/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
